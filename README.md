@@ -71,25 +71,4 @@ npm run preview
 
 - Generated email HTML files are saved to `backend/logs/mail/` for inspection.
 
-## Deployment notes
-
-- Containerization: add a `Dockerfile` per service and use multi-stage builds for production images.
-- Use a managed mail provider in production and secure credentials with environment variables or a secrets manager.
-
-## Contributing
-
-Please open issues or pull requests. For code changes, follow these steps:
-
-1. Fork the repo and create a feature branch.
-2. Run tests for the backend and the frontend locally.
-3. Submit a PR with a clear description of the change.
-
-## License
-
-Specify your project license here.
-
-## Questions or help
-
-If you want the README tailored (screenshots, API docs, env examples, CI steps), tell me which sections to expand.
-
 ### NOTE: THIS IS BUILT WITH THE HELP OF GOOGLE ANTIGRAVITY AND WILL RUN ON LOCAL HOST. THIS IS DONE FOR MY LEARNING PURPOSE
