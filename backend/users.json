@@ -1,0 +1,123 @@
+[
+  {
+    "id": 14,
+    "email": null,
+    "hashed_password": "$2b$12$RAydwYn/oVeVNTiIdcCdTuTebSXnJEMJYIcl.NnbOwyoI3AFZhDhC",
+    "name": "Integration Test Officer",
+    "role": "officer",
+    "department": null,
+    "register_number": null,
+    "employee_id": "OFFICER1783493195",
+    "is_verified": true
+  },
+  {
+    "id": 1,
+    "email": null,
+    "hashed_password": "$2b$12$k0o0RpFN0yJPO6ZMW1Rme.J64mftfuOpKGemwPp7.hNBx28BrbAhS",
+    "name": "Integration Test Student",
+    "role": "student",
+    "department": "Computer Science and Engineering (CSE)",
+    "register_number": "TEST1783493284",
+    "employee_id": null,
+    "is_verified": true
+  },
+  {
+    "id": 2,
+    "email": null,
+    "hashed_password": "$2b$12$mB9Ye.WqV0IdYnCeOQAV4uZWINim2pzUhthCJswB2UiX7gO/qYQ4O",
+    "name": "Integration Test Officer",
+    "role": "officer",
+    "department": null,
+    "register_number": null,
+    "employee_id": "OFFICER1783493286",
+    "is_verified": true
+  },
+  {
+    "id": 3,
+    "email": "david@gmail.com",
+    "hashed_password": "$2b$12$nv0nWJG9dYYpNauC87i6Ae6x6qDkR9xsVa2Z0X0T15gi7GLrr3qym",
+    "name": "david",
+    "role": "student",
+    "department": "Artificial Intelligence and Data Science (AIDS)",
+    "register_number": "123456789",
+    "employee_id": null,
+    "is_verified": true
+  },
+  {
+    "id": 4,
+    "email": "ajith@gmail.com",
+    "hashed_password": "$2b$12$5GBpIFxIl6m1qtNBTOEJGOC03Qtb1Nb8/SYkKxoJl.FZXugrFRJ4q",
+    "name": "ajith",
+    "role": "coordinator",
+    "department": "Artificial Intelligence and Data Science (AIDS)",
+    "register_number": null,
+    "employee_id": "987654321",
+    "is_verified": true
+  },
+  {
+    "id": 5,
+    "email": "billa@gmail.com",
+    "hashed_password": "$2b$12$fq.wOkab0XRMknofdd5aPuidDDMIT9oKd/fQQNMmfLgMdjLotpaWy",
+    "name": "billa",
+    "role": "officer",
+    "department": null,
+    "register_number": null,
+    "employee_id": "567890",
+    "is_verified": true
+  },
+  {
+    "id": 6,
+    "email": "ram@gmail.com",
+    "hashed_password": "$2b$12$mWobgKwTSfm/iq8L75MwLeuGNakazq0jN8LbjCjKd8dw.IWfT/CZK",
+    "name": "RAM",
+    "role": "student",
+    "department": "Computer Science and Engineering (CSE)",
+    "register_number": "cse23148090",
+    "employee_id": null,
+    "is_verified": false
+  },
+  {
+    "id": 7,
+    "email": "vijay@gmail.com",
+    "hashed_password": "$2b$12$DEBv7Ngr3s9fUFfK4BCwheLYsFcwX2x7GHUksr5crO3vaOj.4Vj9C",
+    "name": "Vijay",
+    "role": "student",
+    "department": "Computer Science and Engineering (CSE)",
+    "register_number": "933245134667",
+    "employee_id": null,
+    "is_verified": true
+  },
+  {
+    "id": 8,
+    "email": "vcoordinator@gmail.com",
+    "hashed_password": "$2b$12$R6YvOt1TrTe37qtQHZsIR.b4OfqrmLoHn8B4hRMObynb4OT9SWGgm",
+    "name": "VCoordinator",
+    "role": "coordinator",
+    "department": "Computer Science and Engineering (CSE)",
+    "register_number": null,
+    "employee_id": "empcse_221",
+    "is_verified": true
+  },
+  {
+    "id": 9,
+    "email": "vishal@gmail.com",
+    "hashed_password": "$2b$12$36upx3GYN4K9dx/HiF8FpO1gr9BsnT.Xeg4Ia6z212UC9BTZJQMHa",
+    "name": "Vishal",
+    "role": "coordinator",
+    "department": "Computer Science and Engineering (CSE)",
+    "register_number": null,
+    "employee_id": "empcse001",
+    "is_verified": true
+  },
+  {
+    "id": 10,
+    "email": "keerthy@gmail.com",
+    "hashed_password": "$2b$12$s1Ag.guzs072lBbutdWVFuaYw/sqBzjtmnwN2naRmTYrVU0CCQNoO",
+    "name": "Keerthy",
+    "role": "officer",
+    "department": null,
+    "register_number": null,
+    "employee_id": "pla340",
+    "is_verified": true
+  }
+]
